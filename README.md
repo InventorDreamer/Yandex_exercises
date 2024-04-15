@@ -12,7 +12,6 @@ I am a graduate of the educational organization "Yandex Practicum" specializing 
 * Effective communication to clearly convey findings to colleagues and clients
 * Adaptability to swiftly adjust to new technologies and industry changes
 * Complex problem-solving abilities for tackling data-driven challenges
-* 
 
 ---
 ## My projects:
