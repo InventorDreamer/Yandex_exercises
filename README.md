@@ -17,7 +17,7 @@ I am a graduate of the educational organization "Yandex Practicum" specializing 
 ## My projects:
 
 | [Investigation of the reliability of borrowers](https://github.com/InventorDreamer/Yandex_exercises/tree/main/Исследование%20надежности%20заемщиков) | tools |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-|It is necessary to figure out whether the marital status and the number of children of the client affect the fact of repayment of the loan on time| Pandas     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+|It is necessary to figure out whether the marital status and the number of children of the client affect the fact of repayment of the loan on time| Pandas, matplotlib|
 
 
