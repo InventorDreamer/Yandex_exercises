@@ -22,4 +22,4 @@ I am a graduate of the educational organization "Yandex Practicum" specializing 
 
 | [Research of apartment sale ads](https://github.com/InventorDreamer/Yandex_exercises/tree/main/Исследование%20объявлений%20о%20продаже%20квартир)| tools |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-|We need to learn how to determine the market value of real estate| Pandas, matplotlib, seaborn |
+|We need to learn how to determine the market value of real estate                                                                                 | Pandas, matplotlib, seaborn |
