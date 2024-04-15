@@ -1,6 +1,6 @@
 # Yandex_exercises
 
-I am a graduate of the educational organization "Yandex Practicum" specializing in Data Science. Thanks to these courses, I not only gained additional skills in Python programming, mastered ML algorithms, and learned how to analyze data, but I also developed proficiency in SQL, which enhances my database management capabilities.
+I am a graduate of the educational organization "Yandex Practicum" specializing in Data Science. Thanks to these courses, I not only gained additional skills in Python programming, ML algorithms, and learned how to analyze data, but I also developed in SQL, which enhances my database management capabilities.
 
 **My hard-skills:**
 * Python programming
