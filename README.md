@@ -17,7 +17,7 @@ I am a graduate of the educational organization "Yandex Practicum" specializing 
 ## My projects:
 
 | [Исследование надежности заемщиков](https://github.com/InventorDreamer/Yandex_exercises/tree/main/Исследование%20надежности%20заемщиков) | Библиотеки |
-|------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.                       | Pandas     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|It is necessary to figure out whether the marital status and the number of children of the client affect the fact of repayment of the loan on time| Pandas     |
 
 
