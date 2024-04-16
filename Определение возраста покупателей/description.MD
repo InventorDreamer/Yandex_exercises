@@ -6,5 +6,7 @@
 
 # Описание данных
 Данные взяты с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.es/dataset/26/description/).
+
 Они находятся в папке /datasets/faces/.
+
 В распоряжении одна папка со всеми изображениями (/final_files) и csv-файл labels.csv с двумя колонками: file_name и real_age.
