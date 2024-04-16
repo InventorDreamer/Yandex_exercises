@@ -24,7 +24,7 @@
 3. internet_new.csv — информация об интернет-услугах;
 4. phone_new.csv — информация об услугах телефонии.
 
-* Файл contract_new.csv*
+* Файл contract_new.csv
   * customerID — идентификатор абонента;
   * BeginDate — дата начала действия договора;
   * EndDate — дата окончания действия договора;
@@ -34,14 +34,14 @@
   * MonthlyCharges — расходы за месяц;
   * TotalCharges — общие расходы абонента.
 
-* Файл personal_new.csv*
+* Файл personal_new.csv
   * customerID — идентификатор пользователя;
   * gender — пол;
   * SeniorCitizen — является ли абонент пенсионером;
   * Partner — есть ли у абонента супруг или супруга;
   * Dependents — есть ли у абонента дети.
 
-* Файл internet_new.csv*
+* Файл internet_new.csv
   * customerID — идентификатор пользователя;
   * InternetService — тип подключения;
   * OnlineSecurity — блокировка опасных сайтов;
@@ -51,7 +51,7 @@
   * StreamingTV — стриминговое телевидение;
   * StreamingMovies — каталог фильмов.
 
-* Файл phone_new.csv*
+* Файл phone_new.csv
   * customerID — идентификатор пользователя;
   * MultipleLines — подключение телефона к нескольким линиям одновременно.
 
