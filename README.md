@@ -1,4 +1,5 @@
 # Yandex_exercises
+[8C20CCC0_ACCF_45B9_98EF_DF4C2BB5D7AA_Сергеев_Даниил_Сергеевич_20242DS00196.pdf](https://github.com/user-attachments/files/17430723/8C20CCC0_ACCF_45B9_98EF_DF4C2BB5D7AA_._._._20242DS00196.pdf)
 
 I am a graduate of the educational organization "Yandex Practicum" specializing in Data Science. Thanks to these courses, I not only gained additional skills in Python programming, ML algorithms, and learned how to analyze data, but I also developed in SQL, which enhances my database management capabilities.
 
@@ -6,6 +7,8 @@ I am a graduate of the educational organization "Yandex Practicum" specializing 
 * Python programming
 * SQL
 * ML algorithms
+
+
 * Data analysis
 
 **My soft-skills:**
